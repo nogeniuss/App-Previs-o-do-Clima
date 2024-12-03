@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão do Tempo</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./js/script.js" defer></script>
+ <!--font wesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!--serve para trabalharmos com icones chamando eles pela tag i.-->
+</head>
+<body>
+    <div class="container">
+        <h1>Previsão do tempo</h1>
+
+        
+        <div class="form">
+            <h3>Qual cidade você deseja saber a previsão do tempo?</h3>
+        
+            <div class="form-input-container">
+                <input type="text" placeholder="Insira o nome da cidade" id="city-input">
+                <button id="search">
+                   <i class="fa-solid fa-magnifying-glass"></i>
+                </button>
+            </div>
+        </div>
+        
+        <div id="weather-data">
+            <h2><i class="fa-solid fa-location-dot"></i>
+            <span id="name-city">Maceio</span>
+            <img src="https://countryflagsapi.netlify.app/flag/br.svg" id="country">
+            </h2>
+            <p id="temperature"><span>38</span>&deg;F</p>
+        
+            <div id="description-container">
+                <p id="description">Nublado</p>
+                <img src="http://openweathermap.org/img/wn/01d.png" id="weather-icon">
+            </div>
+        </div>
+        <div id="details-container">
+            <p id="umidity">
+                <i class="fa-solid fa-droplet"></i>
+                <span>48%</span>
+            </p>
+            <p id="wind">
+                <i class="fa-solid fa-wind"></i>
+                <span>3 km/h</span>
+            </p>
+
+        </div>
+    </div>
+</body>
+</html>
