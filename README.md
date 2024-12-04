@@ -1,17 +1,18 @@
 # **Documentação do Projeto: Previsão do Tempo**
 
 **Descrição do Projeto**
+  
   Este projeto é uma aplicação web simples que permite ao usuário consultar a previsão do tempo para uma cidade específica. A aplicação utiliza a API do OpenWeatherMap para obter dados meteorológicos e exibi-los de forma amigável. O design é responsivo e utiliza ícones da Font Awesome para melhorar a experiência do usuário.
 
 **Tecnologias Utilizadas**
 
-Node.js: Ambiente de execução JavaScript no lado do servidor.
-Express: Framework para Node.js que facilita a criação de servidores web.
-HTML5: Linguagem de marcação utilizada para estruturar o conteúdo da aplicação.
-CSS3: Linguagem de estilo utilizada para estilizar a aplicação.
-JavaScript: Linguagem de programação utilizada para adicionar interatividade à aplicação.
-OpenWeatherMap API: API utilizada para obter dados meteorológicos em tempo real.
-Font Awesome: Biblioteca de ícones que fornece ícones escaláveis e personalizáveis.
+**Node.js**: Ambiente de execução JavaScript no lado do servidor.
+**Express**: Framework para Node.js que facilita a criação de servidores web.
+**HTML5**: Linguagem de marcação utilizada para estruturar o conteúdo da aplicação.
+**CSS3**: Linguagem de estilo utilizada para estilizar a aplicação.
+**JavaScript**: Linguagem de programação utilizada para adicionar interatividade à aplicação.
+**OpenWeatherMap** **API**: API utilizada para obter dados meteorológicos em tempo real.
+**Font** **Awesome**: Biblioteca de ícones que fornece ícones escaláveis e personalizáveis.
 
 **Estrutura do Projeto**
 
