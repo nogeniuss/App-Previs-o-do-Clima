@@ -1,4 +1,4 @@
-# ** Documentação do Projeto: Previsão do Tempo**
+# **Documentação do Projeto: Previsão do Tempo**
 
 **Descrição do Projeto**
   Este projeto é uma aplicação web simples que permite ao usuário consultar a previsão do tempo para uma cidade específica. A aplicação utiliza a API do OpenWeatherMap para obter dados meteorológicos e exibi-los de forma amigável. O design é responsivo e utiliza ícones da Font Awesome para melhorar a experiência do usuário.
@@ -24,7 +24,7 @@ Font Awesome: Biblioteca de ícones que fornece ícones escaláveis e personaliz
 │   └── js
 │       └── script.js  # Script JavaScript para interatividade
 
-##**Como Executar o Projeto**
+## **Como Executar o Projeto**
 
 1. Clone o repositório:
 
