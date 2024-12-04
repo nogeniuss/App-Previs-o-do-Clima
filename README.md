@@ -7,11 +7,17 @@
 **Tecnologias Utilizadas**
 
 **Node.js**: Ambiente de execução JavaScript no lado do servidor.
+
 **Express**: Framework para Node.js que facilita a criação de servidores web.
+
 **HTML5**: Linguagem de marcação utilizada para estruturar o conteúdo da aplicação.
+
 **CSS3**: Linguagem de estilo utilizada para estilizar a aplicação.
+
 **JavaScript**: Linguagem de programação utilizada para adicionar interatividade à aplicação.
+
 **OpenWeatherMap** **API**: API utilizada para obter dados meteorológicos em tempo real.
+
 **Font** **Awesome**: Biblioteca de ícones que fornece ícones escaláveis e personalizáveis.
 
 **Estrutura do Projeto**
