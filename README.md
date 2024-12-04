@@ -23,13 +23,20 @@
 **Estrutura do Projeto**
 
 /projeto
+
 │
-├── server.js          # Arquivo principal do servidor
-├── public             # Diretório que contém arquivos estáticos
-│   ├── index.html     # Página HTML principal
-│   ├── style.css      # Folha de estilo da aplicação
+
+├── server.js
+
+├── public
+
+│   ├── index.html
+
+│   ├── style.css
+
 │   └── js
-│       └── script.js  # Script JavaScript para interatividade
+
+│       └── script.js 
 
 ## **Como Executar o Projeto**
 
