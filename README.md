@@ -57,7 +57,7 @@ node server.js
 
 ## **Detalhes do Código**
 
-** -> server.js**
+**-> server.js**
 Este arquivo é responsável por configurar o servidor Express e servir a aplicação.
 
 Express: O Express é utilizado para criar um servidor que escuta na porta 3000.
