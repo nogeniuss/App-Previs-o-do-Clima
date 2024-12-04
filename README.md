@@ -42,7 +42,7 @@
 
 1. Clone o repositório:
 
-git clone https://github.com/nogeniuss/app-Previ-o-do-Clima.git
+git clone [https://github.com/nogeniuss/app-Previ-o-do-Clima.git](https://github.com/nogeniuss/App-Previs-o-do-Clima.git)
 cd app-Previ-o-do-Clima
 
 2. Instale as dependências:
